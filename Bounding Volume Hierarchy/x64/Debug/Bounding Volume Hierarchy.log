@@ -1,0 +1,66 @@
+﻿  AreaLight.cpp
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Utilities.h(57,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'AreaLight.cpp')
+  
+  BVH.cpp
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Utilities.h(57,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BVH.cpp')
+  
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Ray.h(19,44): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'BVH.cpp')
+  
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\BVH.cpp(147,10): warning C4101: 'intersected_obj': unreferenced local variable
+  BoundingBox.cpp
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Ray.h(19,44): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'BoundingBox.cpp')
+  
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Utilities.h(57,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'BoundingBox.cpp')
+  
+  Material.cpp
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Utilities.h(57,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Material.cpp')
+  
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Material.cpp(121,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Material.cpp(125,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Utilities.h(57,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Mesh.cpp')
+  
+  Renderer.cpp
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Ray.h(19,44): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'Renderer.cpp')
+  
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Utilities.h(57,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Renderer.cpp')
+  
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Renderer.cpp(24,21): warning C4244: 'initializing': conversion from 'uint32_t' to 'float', possible loss of data
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Renderer.cpp(38,48): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Renderer.cpp(46,24): warning C4018: '<': signed/unsigned mismatch
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Renderer.cpp(72,21): warning C4018: '<': signed/unsigned mismatch
+  Scene.cpp
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Utilities.h(57,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Ray.h(19,44): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'Scene.cpp')
+  
+  Triangle.cpp
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Ray.h(19,44): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'Triangle.cpp')
+  
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Utilities.h(57,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Triangle.cpp')
+  
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Triangle.cpp(127,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Utilities.cpp
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Utilities.h(57,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Utilities.cpp')
+  
+  main.cpp
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Utilities.h(57,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Scene.cpp(65): warning C4715: 'Scene::SampleLight': not all control paths return a value
+  Bounding Volume Hierarchy.vcxproj -> D:\GitHub\Bounding Volume Hierarchy\x64\Debug\Bounding Volume Hierarchy.exe

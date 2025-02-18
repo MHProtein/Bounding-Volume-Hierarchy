@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\GitHub\Bounding Volume Hierarchy\Bounding Volume Hierarchy\Utilities.h(56,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating code
+  9 of 2832 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bounding Volume Hierarchy.vcxproj -> D:\GitHub\Bounding Volume Hierarchy\x64\Release\Bounding Volume Hierarchy.exe
